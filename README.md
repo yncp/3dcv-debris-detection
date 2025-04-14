@@ -3,7 +3,9 @@ This GitHub collects all code files and directories for our Final Project for Co
 1) Environment/Requirements:
    
    In the easiest case, it should be enough to install the requirements to run the given Notebook, while being in the lecture provided virtual environment of 3dcv-students.
-   .. code:: shpip install -r requirements.txt
+   '''
+   pip install -r requirements.txt
+   '''
    Alternatively, create a new virtual environment with the provided environment.yml file.
 
 3) Dataset:
