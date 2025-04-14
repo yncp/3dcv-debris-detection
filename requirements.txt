@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+numpy<2.0.0
+opencv-python
+pandas
+scipy
+tensorflow[and-cuda]
+tf-slim
+tf-keras
+typing_extensions
+tqdm
+
