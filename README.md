@@ -16,9 +16,9 @@ This GitHub collects all code files and directories for our Final Project for Co
    ``` 
    3dcv-debris-detection
    |----------debris-detection
+   |               |----------train.csv
    |               |----------train
    |               |             |----------xxx.jpg
-   |               |----------train.csv
    |----------deep_sort
    |----------**.py files
    |----------demo.ipynb
