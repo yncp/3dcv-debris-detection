@@ -11,11 +11,9 @@ This GitHub collects all code files and directories for our Final Project for Co
    https://www.kaggle.com/datasets/sadianawar/debris-detection-dataset/data
    Please download the Folder. It Needs to be in the same directory as the jupyter notebook in order for the jupyter notebook to work.
 
-5) Deep_Sort:
-   
-The provided deep_sort, as seen in
-https://github.com/nwojke/deep_sort/tree/master
-Needs to be in the same directory as the jupyter notebook in order for the jupyter notebook to work.
+4) Deep_Sort:
+   The provided deep_sort, as seen in https://github.com/nwojke/deep_sort/tree/master
+   It needs to be in the same directory as the jupyter notebook in order for the jupyter notebook to work.
 
-7) Notebook:
-The Notebook can be run now. Additionally results are provided by the students.
+5) Notebook:
+   The Notebook can be run now. Additionally results are provided by the students.
