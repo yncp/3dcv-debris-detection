@@ -32,4 +32,4 @@ This GitHub collects all code files and directories for our Final Project for Co
 
 6) Notebook:
    
-   The Notebook can be run now. Additionally results are provided by the students.
+   The demo.ipynb Notebook can be run now.
